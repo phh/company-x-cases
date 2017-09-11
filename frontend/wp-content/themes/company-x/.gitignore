@@ -1,0 +1,14 @@
+.buildpath
+.project
+.settings
+._*
+.DS_Store
+.sass-cache
+Thumbs.db
+bower_components
+node_modules
+languages/cpx.mo
+assets/dist/*
+!assets/dist/*.min.*
+!assets/dist/svg/
+!assets/vendor/

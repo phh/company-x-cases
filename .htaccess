@@ -1,0 +1,25 @@
+# protect frontend/wp-config.php
+<files frontend/wp-config.php>
+order allow,deny
+deny from all
+</files>
+
+# Protect the .htaccess
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+
+# Disable dir list
+Options ALL -Indexes
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+# END WordPress

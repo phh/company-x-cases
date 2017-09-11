@@ -1,0 +1,230 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Peytz & Co\n"
+"POT-Creation-Date: 2017-09-11 20:42+0200\n"
+"PO-Revision-Date: 2016-07-12 10:33+0100\n"
+"Last-Translator: Patrick Holberg Hesselberg <phh@peytz.dk>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"cases-Type: text/plain; charset=UTF-8\n"
+"cases-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_attr__;esc_html__;_e;esc_attr_e;esc_html_e;_x:1,2c;_ex:1,2c;esc_attr_x:1,2c;esc_html_x:1,2c;_n:1,2;_nx:4c,1,2;_n_noop:1,2;_nx_noop:4c,1,2\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/Admin/Meta_Boxes/Cases/Info.php:22
+msgid "Info"
+msgstr ""
+
+#: src/Admin/Meta_Boxes/Cases/Info.php:28
+msgid "Project Link"
+msgstr ""
+
+#: src/Admin/Meta_Boxes/Cases/Info.php:34
+msgid "Client name"
+msgstr ""
+
+#: src/Admin/Meta_Boxes/Cases/Info.php:40
+msgid "Client Link"
+msgstr ""
+
+#: src/Admin/Meta_Boxes/User/Twitter.php:17
+msgid "Twitter"
+msgstr ""
+
+#: src/Admin/Meta_Boxes/User/Twitter.php:26
+msgid "Twitter handle"
+msgstr ""
+
+#: src/Admin/Meta_Boxes/User/Twitter.php:29
+msgid "The handle of the users twitter account."
+msgstr ""
+
+#: src/Core/Bootstrap.php:89
+msgid "Frontpage cases"
+msgstr ""
+
+#: src/Core/Bootstrap.php:105
+msgid "Topic cases"
+msgstr ""
+
+#: src/Core/Connections/Cases_To_Users.php:20
+msgid "Linked user"
+msgstr ""
+
+#: src/Core/Types/Cases.php:17
+msgctxt "post type general name"
+msgid "Cases"
+msgstr ""
+
+#: src/Core/Types/Cases.php:18
+msgctxt "post type singular name"
+msgid "Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:19
+msgctxt "add new admin bar"
+msgid "Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:20
+msgctxt "Case"
+msgid "Add New"
+msgstr ""
+
+#: src/Core/Types/Cases.php:21
+msgid "Add New Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:22
+msgid "Edit Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:23
+msgid "New Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:24 src/Core/Types/Cases.php:72
+msgid "View Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:25
+msgid "View Cases"
+msgstr ""
+
+#: src/Core/Types/Cases.php:26
+msgid "Search Cases"
+msgstr ""
+
+#: src/Core/Types/Cases.php:27
+msgid "No Cases found."
+msgstr ""
+
+#: src/Core/Types/Cases.php:28
+msgid "No Cases found in Trash."
+msgstr ""
+
+#: src/Core/Types/Cases.php:29
+msgid "Parent Case:"
+msgstr ""
+
+#: src/Core/Types/Cases.php:30
+msgid "All Cases"
+msgstr ""
+
+#: src/Core/Types/Cases.php:31
+msgid "Case Archives"
+msgstr ""
+
+#: src/Core/Types/Cases.php:32
+msgid "Case Attributes"
+msgstr ""
+
+#: src/Core/Types/Cases.php:33
+msgid "Insert into Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:34
+msgid "Uploaded to this Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:35
+msgctxt "Case"
+msgid "Featured Image"
+msgstr ""
+
+#: src/Core/Types/Cases.php:36
+msgctxt "Case"
+msgid "Set featured image"
+msgstr ""
+
+#: src/Core/Types/Cases.php:37
+msgctxt "Case"
+msgid "Remove featured image"
+msgstr ""
+
+#: src/Core/Types/Cases.php:38
+msgctxt "Case"
+msgid "Use as featured image"
+msgstr ""
+
+#: src/Core/Types/Cases.php:39
+msgctxt "Case menu name"
+msgid "Cases"
+msgstr ""
+
+#: src/Core/Types/Cases.php:40
+msgid "Filter Cases list"
+msgstr ""
+
+#: src/Core/Types/Cases.php:41
+msgid "Cases list navigation"
+msgstr ""
+
+#: src/Core/Types/Cases.php:42
+msgid "Cases list"
+msgstr ""
+
+#: src/Core/Types/Cases.php:55
+msgctxt "post type rewrite slug"
+msgid "cases"
+msgstr ""
+
+#: src/Core/Types/Cases.php:73
+msgid "Preview Case"
+msgstr ""
+
+#: src/Core/Types/Cases.php:74
+msgctxt "Case publish box date format"
+msgid "M j, Y @ H:i"
+msgstr ""
+
+#: src/Core/Types/Cases.php:75
+msgid "Preview post"
+msgstr ""
+
+#: src/Core/Types/Cases.php:80 src/Core/Types/Cases.php:83
+msgid "Case updated."
+msgstr ""
+
+#: src/Core/Types/Cases.php:81
+msgid "Custom field updated."
+msgstr ""
+
+#: src/Core/Types/Cases.php:82
+msgid "Custom field deleted."
+msgstr ""
+
+#: src/Core/Types/Cases.php:84
+#, php-format
+msgctxt "%s: date and time of the revision"
+msgid "Case restored to revision from %s."
+msgstr ""
+
+#: src/Core/Types/Cases.php:85
+msgid "Case published."
+msgstr ""
+
+#: src/Core/Types/Cases.php:86
+msgid "Case saved."
+msgstr ""
+
+#: src/Core/Types/Cases.php:87
+msgid "Case submitted."
+msgstr ""
+
+#: src/Core/Types/Cases.php:88
+#, php-format
+msgctxt "%s: date and time of the scheduled date"
+msgid "Case scheduled for: %s."
+msgstr ""
+
+#: src/Core/Types/Cases.php:89
+msgid "Case draft updated."
+msgstr ""

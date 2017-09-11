@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Company X\n"
+"POT-Creation-Date: 2017-09-11 14:23+0200\n"
+"PO-Revision-Date: 2015-02-23 12:50+0100\n"
+"Last-Translator: Phh <phh@peytz.dk>\n"
+"Language-Team: Peytz & Co <wordpress@peytz.dk>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_attr__;esc_html__;_e;esc_attr_e;esc_html_e;_x:1,2c;_ex:1,2c;esc_attr_x:1,2c;esc_html_x:1,2c;_n:1,2;_nx:4c,1,2;_n_noop:1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: bower_components\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: company-x/functions.php:48
+msgid "Main Menu"
+msgstr ""
+
+#: company-x/functions.php:49
+msgid "Footer Menu"
+msgstr ""
+
+#: company-x/header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: company-x/header.php:52 company-x/header.php:55
+msgid "Show searchform"
+msgstr ""
+
+#: company-x/header.php:53
+msgid "Search"
+msgstr ""
+
+#: company-x/includes/functions-helpers.php:23
+#: company-x/includes/functions-helpers.php:25
+#: company-x/includes/functions-hooks.php:69
+msgid "Read more &raquo;"
+msgstr ""
+
+#: company-x/includes/functions-helpers.php:57
+#, php-format
+msgid "Published: %s"
+msgstr ""
+
+#: company-x/includes/functions-helpers.php:60
+#, php-format
+msgid "Last updated: %s"
+msgstr ""
+
+#: company-x/includes/functions-helpers.php:128
+msgid "Previous"
+msgstr ""
+
+#: company-x/includes/functions-helpers.php:146
+msgid "Next"
+msgstr ""
+
+#: company-x/includes/functions-hooks.php:69
+#, php-format
+msgid "Read %s"
+msgstr ""
+
+#: company-x/includes/functions-widget-areas.php:17
+msgid "Sidebar"
+msgstr ""
+
+#: company-x/includes/functions-widget-areas.php:25
+msgid "Above Footer"
+msgstr ""
+
+#: company-x/includes/functions-widget-areas.php:33
+msgid "Footer"
+msgstr ""
+
+#: company-x/partials/loop-notfound.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: company-x/partials/loop-notfound.php:16
+msgid "There is no content to show."
+msgstr ""
+
+#: company-x/partials/singular-post.php:43
+msgid "Pages:"
+msgstr ""
+
+#: company-x/partials/singular-post.php:51
+msgid "Original text by:"
+msgstr ""
